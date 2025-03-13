@@ -1,0 +1,20 @@
+{
+  "name": "testvercel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@sparticuz/chromium-min": "^133.0.0",
+    "@types/express": "^5.0.0",
+    "express": "^4.21.2",
+    "patchright": "^1.50.1"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.3"
+  }
+}
